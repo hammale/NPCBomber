@@ -1,0 +1,5 @@
+name: NPCBomber
+main: me.hammale.bomber.bomber
+version: 1.0
+author: hammale
+depend: [Citizens]
